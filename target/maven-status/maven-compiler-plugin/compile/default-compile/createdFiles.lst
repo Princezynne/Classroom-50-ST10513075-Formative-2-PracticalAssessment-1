@@ -1,0 +1,6 @@
+com\mycompany\aerolinksystem\Flight.class
+com\mycompany\aerolinksystem\GateScheduler.class
+com\mycompany\aerolinksystem\FlightStatus.class
+com\mycompany\aerolinksystem\InternationalFlight.class
+com\mycompany\aerolinksystem\Aerolinksystem.class
+com\mycompany\aerolinksystem\FlightCategory.class
